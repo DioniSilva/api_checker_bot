@@ -1,0 +1,12 @@
+# Arquivos de byte compilados
+*.pyc
+__pycache__/
+
+# Ambientes virtuais
+venv/
+env/
+bot_env/
+.env
+
+# 
+error_log.json
